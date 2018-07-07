@@ -9,4 +9,4 @@ ans=0
 
 for bb in b:
     ans+=math.fabs(bb-midb)
-print(ans)
+print(int(ans))
